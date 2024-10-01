@@ -12,3 +12,4 @@ function sum(num1, num2) {
     return num1 + num2;
 }
 // Function to sum two numbers
+// Function to sum two numbers
